@@ -1,4 +1,4 @@
-# Example of README
+# Example of README.md
 ## New Repository Example
 ### Hello
 Creator ** Dimitra Gourgioti**
